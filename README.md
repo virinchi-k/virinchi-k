@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=0F403D&center=true&vCenter=true&width=500&lines=Marketing+Data+Analyst;Associate+Data+Scientist;AI+Automation+Enthusiast" alt="Typing Effect" />
 </p>
 
-
 An analytics professional with over eight years of experience turning complex datasets into scalable data solutions, interactive dashboards, and automated workflows. I thrive at the intersection of business intelligence, data science, and AI-driven marketing automation, bridging technical execution with strategic growth.
 
 ---
@@ -49,26 +48,24 @@ An analytics professional with over eight years of experience turning complex da
 
 ## 📌 Featured Projects
 
-### 🤖 [AI-Powered Marketing Analytics Automation](https://github.com/virinchi-k/adk_agent_implementation)
+### 🤖 [AI-Powered Marketing Analytics Automation](https://github.com/virinchi-k)
 Engineered an end-to-end automated reporting and analysis pipeline using a multi-agent framework powered by Google ADK and the Gemini API. Built specifically to optimize latency and eliminate operational bottlenecks, this system accelerates data availability to speed up campaign execution cycles.
 
-### 🧪 [Laboratory Information Management System (LIMS)]
+### 🧪 [Laboratory Information Management System (LIMS)](https://github.com/virinchi-k)
 Architected and deployed a self-hosted cloud LIMS on AWS EC2 leveraging Docker and Python. Designed secure REST API integrations to connect frontend web forms to live relational databases, establishing complete data traceability and structured record capture across multi-department research environments.
 
-### 📈 [Customer Churn Prediction and Retention Strategy](https://github.com/virinchi-k/churn_prediction_model)
+### 📈 [Customer Churn Prediction and Retention Strategy](https://github.com/virinchi-k)
 Developed a robust machine learning system benchmarking Random Forest, Gradient Boosting, SVM, KNN, and Logistic Regression to surface behavioral and transactional indicators of customer attrition. Translated the data insights into an actionable account-based retention framework directly applicable to B2B SaaS organizations.
 
 ---
 
-## 📊 Git Metrics and Trophies
+## 📊 Git Metrics
 
 [![Virinchi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virinchi-k&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=virinchi-k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virinchi-kopparam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kopparamvirinchi@gmail.com)
