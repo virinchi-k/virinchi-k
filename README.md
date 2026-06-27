@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=0F403D&center=true&vCenter=true&width=500&lines=Marketing+Data+Analyst;Associate+Data+Scientist;AI+Automation+Enthusiast" alt="Typing Effect" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=virinchi-k&label=Profile+Views&color=0f403d&style=plastic" alt="Profile Views" />
-</p>
 
 An analytics professional with over eight years of experience turning complex datasets into scalable data solutions, interactive dashboards, and automated workflows. I thrive at the intersection of business intelligence, data science, and AI-driven marketing automation, bridging technical execution with strategic growth.
 
