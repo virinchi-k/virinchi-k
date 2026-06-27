@@ -10,12 +10,12 @@ An analytics professional with over eight years of experience turning complex da
 
 ## 🚀 Deep Dive
 
-* 🔭 **Current Initiatives:** Deploying autonomous multi-agent AI frameworks, cloud database architectures, and predictive machine learning models.
-* 🧠 **Core Competencies:** Funnel and conversion rate optimization, predictive churn modeling, automated data validation pipelines, and relational database systems.
-* 🎓 **Background:** Master of Science in Business Analytics and Artificial Intelligence from The University of Texas at Dallas.
-* 🗣️ **Languages:** English, Hindi, Telugu, and Spanish.
-* 💬 **Let's Talk About:** Advanced SQL optimization, custom DAX patterns, cloud infrastructure on AWS, or traditional South Indian culinary preparation.
-* ⚡ **Fun Facts:** I love mentoring emerging technology professionals.
+* 🔭 **Current Initiatives:** Deploying autonomous multi-agent AI frameworks, cloud database architectures, and predictive machine learning models
+* 🧠 **Core Competencies:** Funnel and conversion rate optimization, predictive churn modeling, automated data validation pipelines, and relational database systems
+* 🎓 **Background:** Master of Science in Business Analytics and Artificial Intelligence from The University of Texas at Dallas 
+* 🗣️ **Languages:** English, Hindi, Telugu, and Spanish
+* 💬 **Let's Talk About:** Advanced SQL optimization, custom DAX patterns, cloud infrastructure on AWS, or traditional South Indian culinary preparation
+* ⚡ **Fun Facts:**  I love mentoring emerging technology professionals and learn new perspectives from them
 
 ---
 
@@ -73,7 +73,7 @@ Advanced classification framework built to identify fraudulent credit card trans
 
 ## 🤝 Let's Connect
 
-I love connecting with different people and if you want to say hi, My Inbox is open all time for any support!!! 😊
+I love connecting with different people and if you want to say hi, My Inbox is open all time!!! 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virinchi-kopparam/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kopparamvirinchi@gmail.com)
