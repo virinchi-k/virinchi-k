@@ -1,4 +1,4 @@
-# Hi there, I'm Virinchi Kopparam 👋
+# Hi there! I'm Virinchi Kopparam 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=0F403D&center=true&vCenter=true&width=500&lines=Marketing+Data+Analyst;Associate+Data+Scientist;AI+Automation+Enthusiast" alt="Typing Effect" />
@@ -13,9 +13,9 @@ An analytics professional with over eight years of experience turning complex da
 * 🔭 **Current Initiatives:** Deploying autonomous multi-agent AI frameworks, cloud database architectures, and predictive machine learning models.
 * 🧠 **Core Competencies:** Funnel and conversion rate optimization, predictive churn modeling, automated data validation pipelines, and relational database systems.
 * 🎓 **Background:** Master of Science in Business Analytics and Artificial Intelligence from The University of Texas at Dallas.
-* 🗣️ **Languages:** English, Hindi, Telugu, and currently learning Spanish.
+* 🗣️ **Languages:** English, Hindi, Telugu, and Spanish.
 * 💬 **Let's Talk About:** Advanced SQL optimization, custom DAX patterns, cloud infrastructure on AWS, or traditional South Indian culinary preparation.
-* ⚡ **Fun Facts:** I am an avid guitarist, a passionate badminton player, and I love mentoring emerging technology professionals.
+* ⚡ **Fun Facts:** I love mentoring emerging technology professionals.
 
 ---
 
@@ -60,6 +60,9 @@ An analytics professional with over eight years of experience turning complex da
 ### 🤖 [AI-Powered Marketing Analytics Automation](https://github.com/virinchi-k/adk_agent_implementation)
 Engineered an end-to-end automated reporting and analysis pipeline using a multi-agent framework powered by Google ADK and the Gemini API. Built specifically to optimize latency and eliminate operational bottlenecks, this system accelerates data availability to speed up campaign execution cycles.
 
+### 🧪 [Laboratory Information Management System (LIMS)](https://github.com/virinchi-k)
+Architected and deployed a self-hosted cloud LIMS on AWS EC2 leveraging Docker and Python. Designed secure REST API integrations to connect frontend web forms to live relational databases, establishing complete data traceability and structured record capture across multi-department research environments.
+
 ### 📈 [Customer Churn Prediction and Retention Strategy](https://github.com/virinchi-k/churn_prediction_model)
 Developed a robust machine learning system benchmarking Random Forest, Gradient Boosting, SVM, KNN, and Logistic Regression to surface behavioral and transactional indicators of customer attrition. Translated the data insights into an actionable account-based retention framework directly applicable to B2B SaaS organizations.
 
@@ -68,15 +71,9 @@ Advanced classification framework built to identify fraudulent credit card trans
 
 ---
 
-## 📊 Git Metrics
-
-[![Virinchi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virinchi-k&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🤝 Let's Connect
 
-I love connecting with different people and if you want to say hi, my inbox is open all time for any support!!! 😊
+I love connecting with different people and if you want to say hi, My Inbox is open all time for any support!!! 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virinchi-kopparam/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kopparamvirinchi@gmail.com)
