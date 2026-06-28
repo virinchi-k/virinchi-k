@@ -56,7 +56,7 @@ Self-hosted cloud LIMS deployed on AWS EC2 using Docker and Python. Includes sec
 
 ## 🎓 Certifications
 
-`Google Analytics` &nbsp; `Google Ads` &nbsp; `Snowflake Data Warehouse` &nbsp; `Databricks GenAI` &nbsp; `CSPO` &nbsp; `Power BI Data Analyst Associate (PL-300) `
+`Google Analytics` &nbsp; `Google Ads` &nbsp; `Snowflake Data Warehouse` &nbsp; `Databricks GenAI` &nbsp; `Certified Scrum Product Owner - CSPO` &nbsp; `Power BI Data Analyst Associate (PL-300) `
 
 ---
 
