@@ -13,7 +13,7 @@
 
 ---
 
-Business and Data Analyst with 8+ years of experience across Big 4 consulting (Deloitte), marketing analytics (SprintPark), healthcare, and biotech. I build dashboards, write production SQL, run A/B tests, and automate reporting workflows that teams actually use. My background spans BI delivery, stakeholder reporting, and predictive modeling, with a consistent focus on translating analysis into decisions.
+Business and Data Analyst with 8+ years of experience across Big 4 Consulting (Deloitte), Marketing Analytics (SprintPark), Healthcare, and Biotech, currently working as an Associate Data Scientist at Manakin Bio. I build dashboards, write production SQL, run A/B tests, and automate reporting workflows that teams actually use. My background spans BI delivery, stakeholder reporting, and predictive modeling, with a consistent focus on translating analysis into decisions.
 
 ---
 
@@ -49,7 +49,7 @@ Classification framework for identifying fraudulent transactions. Implemented SM
 ### 🤖 [AI-Powered Marketing Analytics Automation](https://github.com/virinchi-k/adk_agent_implementation)
 End-to-end automated reporting pipeline using a multi-agent framework built on Google ADK and the Gemini API. Designed to eliminate manual reporting bottlenecks and accelerate campaign data availability for faster execution cycles.
 
-### 🧪 [Laboratory Information Management System (LIMS)](https://github.com/virinchi-k/churn_prediction_model)
+### 🧪 [Laboratory Information Management System (LIMS)](https://github.com/virinchi-k)
 Self-hosted cloud LIMS deployed on AWS EC2 using Docker and Python. Includes secure REST API integrations connecting frontend web forms to live relational databases, establishing full data traceability across multi-department research environments.
 
 ---
