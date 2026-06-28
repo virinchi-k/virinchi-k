@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/virinchi-kopparam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kopparamvirinchi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=virinchi-k&style=for-the-badge&color=0F403D" alt="Profile Views"/>
 </p>
 
 ---
@@ -39,26 +38,19 @@ Business and Data Analyst with 8+ years of experience across Big 4 consulting (D
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virinchi-k&show_icons=true&theme=dark&hide_border=true&title_color=0F403D&icon_color=0F403D&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virinchi-k&layout=compact&theme=dark&hide_border=true&title_color=0F403D&bg_color=0d1117" height="165"/>
-</p>
+### 📈 [Customer Churn Prediction & Retention Strategy](https://github.com/virinchi-k/churn_prediction_model)
+ML classification system benchmarked across Random Forest, Gradient Boosting, SVM, KNN, and Logistic Regression to identify at-risk customers 3 months ahead of churn. Includes a SQL-based cohort analysis layer and a B2B retention framework built on top of model outputs. Random Forest and Gradient Boosting both achieved ~86% accuracy.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virinchi-k&theme=dark&hide_border=true&ring=0F403D&fire=0F403D&currStreakLabel=0F403D&background=0d1117" />
-</p>
+### 💳 [Credit Card Fraud Detection](https://github.com/virinchi-k/fraud_detection_CC)
+Classification framework for identifying fraudulent transactions. Implemented SMOTE-based rebalancing and feature scaling to handle severe class imbalance, optimizing for precision-recall tradeoff over raw accuracy.
 
----
+### 🤖 [AI-Powered Marketing Analytics Automation](https://github.com/virinchi-k/adk_agent_implementation)
+End-to-end automated reporting pipeline using a multi-agent framework built on Google ADK and the Gemini API. Designed to eliminate manual reporting bottlenecks and accelerate campaign data availability for faster execution cycles.
 
-## 📌 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Customer Churn Prediction](https://github.com/virinchi-k/churn_prediction_model) | ML system identifying at-risk customers 3 months ahead of churn. Benchmarked 5 classifiers; Random Forest and Gradient Boosting at ~86% accuracy. Includes SQL-based cohort analysis layer. | Python, SQL, Scikit-Learn |
-| [Credit Card Fraud Detection](https://github.com/virinchi-k/fraud_detection_CC) | Classification framework for fraudulent transaction detection. SMOTE rebalancing and feature scaling to handle severe class imbalance, optimizing precision-recall over raw accuracy. | Python, Scikit-Learn |
-| [AI Marketing Analytics Agent](https://github.com/virinchi-k/adk_agent_implementation) | Multi-agent automated reporting pipeline using Google ADK and Gemini API. Eliminates manual reporting bottlenecks and accelerates campaign data availability. | Python, Google ADK, Gemini |
+### 🧪 [Laboratory Information Management System (LIMS)](https://github.com/virinchi-k/churn_prediction_model)
+Self-hosted cloud LIMS deployed on AWS EC2 using Docker and Python. Includes secure REST API integrations connecting frontend web forms to live relational databases, establishing full data traceability across multi-department research environments.
 
 ---
 
